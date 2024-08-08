@@ -1,4 +1,1 @@
-<div>
-  ![Dorne](https://github.com/user-attachments/assets/4170745d-823c-428e-83aa-c969f3b0e4f3)
-</div>
-
+![logo-color](https://github.com/user-attachments/assets/d27b67d8-0677-4824-8d05-564c6c054b7e)
